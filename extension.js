@@ -106,8 +106,8 @@
       commandLiteral: "!",
       blacklists: {
         NSFW: "https://rawgit.com/dafiteq/Mine-plug.dj-bot/dafiteq-patch-1/NSFWlist.json",
-        OP: "https://rawgit.com/dafiteq/Mine-plug.dj-bot/afiteq-patch-1/OPlist.json",
-        BANNED: "https://rawgit.com/dafiteq/Mine-plug.dj-bot/afiteq-patch-1/BANNEDlist.json"
+        OP: "https://rawgit.com/dafiteq/Mine-plug.dj-bot/dafiteq-patch-1/OPlist.json",
+        BANNED: "https://rawgit.com/dafiteq/Mine-plug.dj-bot/dafiteq-patch-1/BANNEDlist.json"
       }
     }));
 
