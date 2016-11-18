@@ -48,7 +48,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "Dafiteq",
       language: "english",
-      chatLink: "https://rawgit.com/basicBot/source/master/lang/en.json",
+      chatLink: "https://rawgit.com/dafiteq/Mine-plug.dj-bot/dafiteq-patch-1/en.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 1, // 1-200
@@ -58,7 +58,7 @@
       autoskip: true,
       smartSkip: true,
       cmdDeletion: true,
-      maximumAfk: 120,
+      maximumAfk: 1000,
       afkRemoval: false,
       maximumDc: 60,
       bouncerPlus: true,
@@ -105,9 +105,9 @@
       songstats: false,
       commandLiteral: "!",
       blacklists: {
-        NSFW: "https://rawgit.com/basicBot/custom/master/blacklists/NSFWlist.json",
-        OP: "https://rawgit.com/basicBot/custom/master/blacklists/OPlist.json",
-        BANNED: "https://rawgit.com/basicBot/custom/master/blacklists/BANNEDlist.json"
+        NSFW: "https://rawgit.com/dafiteq/Mine-plug.dj-bot/dafiteq-patch-1/NSFWlist.json",
+        OP: "https://rawgit.com/dafiteq/Mine-plug.dj-bot/afiteq-patch-1/OPlist.json",
+        BANNED: "https://rawgit.com/dafiteq/Mine-plug.dj-bot/afiteq-patch-1/BANNEDlist.json"
       }
     }));
 
